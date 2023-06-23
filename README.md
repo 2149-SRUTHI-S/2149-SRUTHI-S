@@ -5,7 +5,9 @@ I'm Sruthi. I'm a Pre-final year Computer Science and Engineering student at R.M
 
 Currently working on
 
-![react logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/460b21e4-ecbf-4deb-b1a5-8969a103259c)  ![node logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/351013d4-2f2a-4799-8529-465f3e0e1183)  ![express logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/d9fe9bac-6ad5-4147-b25c-ab2259923242)  ![mongodb logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/94c4e15b-4bdf-4297-8017-ae7677605ff6)
+![react logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/460b21e4-ecbf-4deb-b1a5-8969a103259c)  ![node logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/351013d4-2f2a-4799-8529-465f3e0e1183) 
+
+![express logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/d9fe9bac-6ad5-4147-b25c-ab2259923242)  ![mongodb logo g](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/94c4e15b-4bdf-4297-8017-ae7677605ff6)
 
 
 

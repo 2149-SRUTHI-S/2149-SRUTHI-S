@@ -22,9 +22,6 @@ I'm Sruthi. I'm a Pre-final year Computer Science and Engineering student at R.M
 
 
 
-**Linkedin**
-
-https://www.linkedin.com/in/sruthi-sivasankararaj-b0930b263/
 
 
 

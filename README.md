@@ -4,31 +4,13 @@ I'm Sruthi. I'm a Pre-final year Computer Science and Engineering student at R.M
 
 **Technology Stack I can work with**
 
+
 ![c](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/7536fc6f-1190-4033-a0ed-1c569d49bee7)  ![5python](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/4bc6118f-2375-4c29-8e4b-a26b5f05365e)  ![j3](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/9e084f7b-c203-4ab2-b0a3-a3ce995424e4)   ![1html](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/47332381-5cd4-4600-8218-8d8c1ac55cd5)  ![2css](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/3a533c58-ed63-4761-995b-a4c659ab219f) 
 
  ![3js](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/e3fea7dc-3946-4d0f-84f9-9030e3fbcfd8)  ![4bootstrap](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/e9cca475-803a-4756-b1bf-3a2d68862be4)  ![7php](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/ff2bedcd-9710-4d36-8890-af9841bd86c5)  ![8numpy](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/93195775-64e4-41f3-819d-28e9325482a8)  ![9pandas](https://github.com/2149-SRUTHI-S/2149-SRUTHI-S/assets/129876043/f82ecdb8-806c-4576-8ac2-3d417695297b)  
 
 
 
-
-
-
-
-
-
-
-
-1. HTML
-2. CSS
-3. JavaScript
-4. Python
-5. JAVA
-6. PHP
-7. Django
-8. Bootstrap
-9. Numpy
-10. Pandas
-11. Anaconda
 
 **Currently working on**
 

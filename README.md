@@ -5,7 +5,6 @@
 <h3 align="center">An aspiring Full Stack Web Developer from India</h3>
 <br><br><p></p>
 <img align="right" width="400" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2149-sruthi-s&label=Profile%20views&color=0e75b6&style=flat" alt="2149-sruthi-s" /> </p>
 
 
 - 🔭 I’m currently working on **Full Stack Projects and OpenCV Projects**
@@ -36,7 +35,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <br>
+  
   <center>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -78,10 +77,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2149-sruthi-s&" alt="2149-sruthi-s" /></p>
 
-
-
-
-
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2149-sruthi-s&label=Profile%20views&color=0e75b6&style=flat" alt="2149-sruthi-s" /> </p>
 
 
 

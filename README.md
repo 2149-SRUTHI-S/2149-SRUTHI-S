@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sruthi</h1>
+<h1 align="center">Hi <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width=50 alt = "NA"> I'm Sruthi</h1>
 <h3 align="center">An aspiring Full Stack Web Developer from India</h3>
 <br><br><p></p>
 <img align="right" width="400" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">

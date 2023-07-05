@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **sruthisivasankararaj.06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KK9QMBiBLiGyqC2o8VLKF1j6JMuOw26F/view](https://drive.google.com/file/d/1KK9QMBiBLiGyqC2o8VLKF1j6JMuOw26F/view)
 
   <br>
 

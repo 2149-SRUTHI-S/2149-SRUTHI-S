@@ -23,9 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://codepen.io/sruthi-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sruthi-s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sruthi-sivasankararaj-b0930b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthi-sivasankararaj-b0930b263" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sruthi_2149" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sruthi_2149" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srut21414_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srut21414_cs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sruthi_sivasankararaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sruthi_sivasankararaj" height="30" width="40" /></a>
 </p>

@@ -13,8 +13,6 @@
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/2149-SRUTHI-S](https://github.com/2149-SRUTHI-S)
-
 - 💬 Ask me about **Front-end Development**
 
 - 📫 How to reach me **sruthisivasankararaj.06@gmail.com**

@@ -5,7 +5,7 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
 
 
--  Portfolio => https://2149-sruthi-s.github.io/Portfolio/
+-  Portfolio => www.sruthi-sivasankararaj.com
 
 - 🔭 I’m currently working on **Full Stack Projects and OpenCV Projects**
 

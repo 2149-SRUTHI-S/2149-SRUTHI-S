@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects and OpenCV Projects**
 
-- 🌱 I’m currently learning **ReactJS, Node JS, Express JS, Three JS, MongoDB and Tailwind CSS**
+- 🌱 I’m currently learning **ReactJS, Node JS, Express JS, MongoDB, SpringBoot and Tailwind CSS**
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 

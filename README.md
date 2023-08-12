@@ -7,11 +7,9 @@
 
 -  Portfolio => www.sruthi-sivasankararaj.com
 
-- 🔭 I’m currently working on **Full Stack Projects and OpenCV Projects**
+- 🔭 I’m currently working on **Full Stack Projects and ML Projects**
 
 - 🌱 I’m currently learning **ReactJS, Node JS, MongoDB and SpringBoot**
-
-- 🤝 I’m looking for help with **Machine Learning Projects**
 
 - 💬 Ask me about **Front-end Development**
 

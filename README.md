@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects and ML Projects**
 
-- 🌱 I’m currently learning **ReactJS, Node JS, MongoDB and SpringBoot**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Front-end Development**
 

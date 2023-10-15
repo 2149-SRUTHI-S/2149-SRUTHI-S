@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif" width=90 alt = "NA"> I'm Sruthi</h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/f7/41/95/f74195ebd09d5422376eece9a464a7a7.gif" width=90 alt = "NA"> I'm Sruthi</h1>
 <h3 align="center">An ambitious Full Stack Web Developer and ML Enthusiast from India</h3>
 <br><br><p></p>
 <img align="right" width="260" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">

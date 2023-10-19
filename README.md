@@ -22,7 +22,7 @@
   <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 
 <a href="https://linkedin.com/in/sruthi-sivasankararaj-b0930b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthi-sivasankararaj-b0930b263" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srut21414_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srut21414_cs" height="30" width="40" /></a>

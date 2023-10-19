@@ -5,7 +5,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQHMnvLjJ-H3GA/profile-displaybackgroundimage-shrink_350_1400/0/1694015508804?e=1703116800&v=beta&t=HZG6flaNUhFtGebzYEhPD4dQCU-huvMS1he6nlw4Oto" alt="NA/>
   
 <br><br><p></p>
-<img align="right" width="260" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
+<img align="right" width="260" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966"/>
 
 
 -  My Portfolio is available at www.sruthi-sivasankararaj.com

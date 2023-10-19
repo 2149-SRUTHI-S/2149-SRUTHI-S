@@ -5,7 +5,7 @@
 <img align="right" width="260" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
 
 
--  My Portfolio is available at www.sruthi-sivasankararaj.com
+-  My Portfolio is available at <ahref="www.sruthi-sivasankararaj.com" target="blank"></a>
 
 - 🔭 I’m currently working on **Full Stack Projects and ML Projects**
 
@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **sruthisivasankararaj.06@gmail.com**
 
-- </> SkillRack Profile https://www.skillrack.com/faces/resume.xhtml?id=355012&key=fcf4cf60ec6f613a7e65bd685adc1f379a6dc1b8
+- </> <a href="https://www.skillrack.com/faces/resume.xhtml?id=355012&key=fcf4cf60ec6f613a7e65bd685adc1f379a6dc1b8" target="blank">Skillrack Profile</a>
+- Know about my experiences <a href="https://drive.google.com/file/d/11WQ0BBiub7nHjI1qM5EPXboPRRo5ePMd/view">Resume</a>
 
 
   <br>

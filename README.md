@@ -30,16 +30,45 @@
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-<center>
-  <br><br><br>
-</center>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2149-sruthi-s&show_icons=true&locale=en&layout=compact" alt="2149-sruthi-s" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2149-sruthi-s&show_icons=true&locale=en" alt="2149-sruthi-s" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,py,cpp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,tailwind" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,php,mysql,mongo,firebase" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,atom,eclipse" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<br><br><br>
+
+![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=2149-sruthi-s&show_icons=true&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png) ![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=2149-sruthi-s&show_icons=true&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png)
 
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2149-SRUTHI-S&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>

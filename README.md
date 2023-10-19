@@ -1,8 +1,9 @@
 
 <h1 align="center"><img src="https://i.pinimg.com/originals/f7/41/95/f74195ebd09d5422376eece9a464a7a7.gif" width=90 alt = "NA"> I'm Sruthi</h1>
-<img src="https://media.licdn.com/dms/image/D5616AQHMnvLjJ-H3GA/profile-displaybackgroundimage-shrink_350_1400/0/1694015508804?e=1703116800&v=beta&t=HZG6flaNUhFtGebzYEhPD4dQCU-huvMS1he6nlw4Oto" alt="NA>
+<h3 align="center">An ambitious Full Stack Web Developer and ML Enthusiast from India</h3>
+<br>
+<img src="https://media.licdn.com/dms/image/D5616AQHMnvLjJ-H3GA/profile-displaybackgroundimage-shrink_350_1400/0/1694015508804?e=1703116800&v=beta&t=HZG6flaNUhFtGebzYEhPD4dQCU-huvMS1he6nlw4Oto" alt="NA/>
   
-<h2 align="center">An ambitious Full Stack Web Developer and ML Enthusiast from India</h2>
 <br><br><p></p>
 <img align="right" width="260" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
 
@@ -27,8 +28,6 @@
 <p align="left"> 
 
 <a href="https://linkedin.com/in/sruthi-sivasankararaj-b0930b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthi-sivasankararaj-b0930b263" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srut21414_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srut21414_cs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sruthi_sivasankararaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sruthi_sivasankararaj" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>

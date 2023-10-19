@@ -40,10 +40,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2149-sruthi-s&show_icons=true&locale=en" alt="2149-sruthi-s" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2149-sruthi-s&" alt="2149-sruthi-s" /></p>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2149-sruthi-s&label=Profile%20views&color=0e75b6&style=flat" alt="2149-sruthi-s" /> </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2149-SRUTHI-S&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
 
 
 

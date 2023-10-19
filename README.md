@@ -1,11 +1,11 @@
 
-<h1 align="center"><img src="https://i.pinimg.com/originals/f7/41/95/f74195ebd09d5422376eece9a464a7a7.gif" width=90 alt = "NA">Sruthi Sivasankararaj</h1>
+<h1 align="center"><img src="https://sruthi-sivasankararaj.com/" width=90 alt = "NA">Sruthi Sivasankararaj</h1>
 <h3 align="center">An ambitious Full Stack Web Developer and ML Enthusiast from India</h3>
 <br>
 <img src="https://media.licdn.com/dms/image/D5616AQHMnvLjJ-H3GA/profile-displaybackgroundimage-shrink_350_1400/0/1694015508804?e=1703116800&v=beta&t=HZG6flaNUhFtGebzYEhPD4dQCU-huvMS1he6nlw4Oto" alt="NA"/>
   
 <br><br><p></p>
-<img align="right" width="260" src="https://camo.githubusercontent.com/93e74f65c63547100aca384d648444fa86ba21dbca44863b7ef41fb1aa5f6cbd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966"/>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 
 -  My Portfolio is available at www.sruthi-sivasankararaj.com

@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,php,mysql,mongo,firebase" />
+    <img src="https://skillicons.dev/icons?i=spring,django,php,mysql,mongo,firebase,postman" />
   </a>
 </p>
 

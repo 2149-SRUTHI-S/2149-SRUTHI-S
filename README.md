@@ -71,6 +71,8 @@
 
 ![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=2149-sruthi-s&show_icons=true&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png) ![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=2149-sruthi-s&show_icons=true&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png)
 
+[![Sruthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2149-sruthi-s&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2149-SRUTHI-S&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" /></a>
 

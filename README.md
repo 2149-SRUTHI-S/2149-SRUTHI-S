@@ -16,10 +16,10 @@
 
 - 💬 Ask me about **Front-end Development**
 
-- 📫 How to reach me **sruthisivasankararaj.06@gmail.com**
+- 📫 How to reach me : **sruthisivasankararaj.06@gmail.com**
 
-- </> <a href="https://www.skillrack.com/faces/resume.xhtml?id=355012&key=fcf4cf60ec6f613a7e65bd685adc1f379a6dc1b8" target="blank">Skillrack Profile</a>
-- Know about my experiences <a href="https://drive.google.com/file/d/11WQ0BBiub7nHjI1qM5EPXboPRRo5ePMd/view">Resume</a>
+- </> SkillRack : <a href="https://www.skillrack.com/faces/resume.xhtml?id=355012&key=fcf4cf60ec6f613a7e65bd685adc1f379a6dc1b8" target="blank">Profile</a>
+- Know about my experiences : <a href="https://drive.google.com/file/d/11WQ0BBiub7nHjI1qM5EPXboPRRo5ePMd/view">Resume</a>
 
 
   <br>

@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects and ML Projects**
 
-- 🌱 I’m currently learning **ReactJS and Back-end developme**
+- 🌱 I’m currently learning **ReactJS and Back-end development**
 
 - 💬 Ask me about **Front-end Development**
 

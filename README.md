@@ -10,7 +10,7 @@
 
 -  My Portfolio is available at www.sruthi-sivasankararaj.com
 
-- 🔭 I’m currently working on **Full Stack Projects and ML Projec**
+- 🔭 I’m currently working on **Full Stack Projects and ML Project**
 
 - 🌱 I’m currently learning **ReactJS and Back-end development**
 

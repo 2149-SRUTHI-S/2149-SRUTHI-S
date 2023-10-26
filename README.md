@@ -1,6 +1,6 @@
 
 <h1 align="center">Sruthi Sivasankararaj</h1>
-<h3 align="center">An aspiring SDE / Full Stack Web Developer</h3>
+<h3 align="center">An aspiring SDE / Full Stack Web Dev</h3>
 <br>
 <img src="https://media.licdn.com/dms/image/D5616AQHMnvLjJ-H3GA/profile-displaybackgroundimage-shrink_350_1400/0/1694015508804?e=1703116800&v=beta&t=HZG6flaNUhFtGebzYEhPD4dQCU-huvMS1he6nlw4Oto" alt="NA"/>
   

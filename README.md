@@ -22,14 +22,12 @@
 - Know about my experiences : <a href="https://drive.google.com/file/d/11WQ0BBiub7nHjI1qM5EPXboPRRo5ePMd/view">Resume</a>
 
 
-  <br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 
 <a href="https://linkedin.com/in/sruthi-sivasankararaj-b0930b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthi-sivasankararaj-b0930b263" height="30" width="40" /></a>
 </p>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -67,7 +65,7 @@
   </a>
 </p>
 
-<br><br><br>
+<br>
 
 ![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=2149-sruthi-s&show_icons=true&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png) ![Sruthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=2149-sruthi-s&show_icons=true&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&type=png)
 

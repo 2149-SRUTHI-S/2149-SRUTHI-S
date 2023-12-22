@@ -1,10 +1,8 @@
                 
 <h1 align="center">Sruthi Sivasankararaj </h1>                    
 <h3 align="center">Aspiring Software Developer / Full Stack Web Develeper </h3>             
-<br>   
-<img src="https://media.licdn.com/dms/image/D5616AQHMnvLjJ-H3GA/profile-displaybackgroundimage-shrink_350_1400/0/1694015508804?e=1703116800&v=beta&t=HZG6flaNUhFtGebzYEhPD4dQCU-huvMS1he6nlw4Oto" alt="NA"/>
-   
-<br><br> <p></p>
+
+<br>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 

@@ -1,5 +1,5 @@
     
-<h1 align="center">Sruthi Sivasankararaj </h1>                                
+<h1 align="center">Sruthi Sivasankararaj </h1>                                  
 <h3 align="center">Aspiring Software Developer / Full Stack Web Develeper </h3>                                
           
 <br>

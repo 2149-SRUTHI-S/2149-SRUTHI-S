@@ -1,7 +1,7 @@
     
 <h1 align="center">Sruthi Sivasankararaj </h1>                                    
 <h3 align="center">Aspiring Software Developer / Full Stack Web Develeper </h3>                                
-             
+               
 <br>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 

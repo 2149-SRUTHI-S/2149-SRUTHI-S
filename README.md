@@ -16,7 +16,7 @@
 - 📫 How to reach me : **sruthisivasankararaj.06@gmail.com**
 
 - </> SkillRack : <a href="https://www.skillrack.com/faces/resume.xhtml?id=355012&key=fcf4cf60ec6f613a7e65bd685adc1f379a6dc1b8" target="blank">Profile</a>
-- Know about my experiences : <a href="https://drive.google.com/file/d/1lq2n-e4tI7vHX27gY8-7_RkfdA62WaEA/view?usp=drivesdk">Resume</a>
+- Know about my experiences : <a href="https://drive.google.com/file/d/1kbf6eZ4hD8tmKGLL6cZR9A75JbF-t2cs/view?usp=drivesdk">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>

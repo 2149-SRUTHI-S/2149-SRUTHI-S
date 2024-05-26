@@ -1,4 +1,4 @@
-<h1 align="center">Sruthi Sivasankararaj</h1>                                                 
+<h1 align="center">Sruthi Sivasankararaj</h1>                                      
 <h3 align="center">Aspiring Software Developer</h3>                                           
 
 <br>    

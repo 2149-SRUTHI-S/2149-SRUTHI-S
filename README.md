@@ -40,13 +40,13 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,next,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,php,mysql,mongo,firebase,postman" />
+    <img src="https://skillicons.dev/icons?i=spring,php,mysql,mongo,postman" />
   </a>
 </p>
 

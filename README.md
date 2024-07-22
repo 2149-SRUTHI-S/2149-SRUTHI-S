@@ -16,13 +16,13 @@
 - 📫 How to reach me : **sruthisivasankararaj.06@gmail.com**
 
 - </> SkillRack : <a href="https://www.skillrack.com/faces/resume.xhtml?id=355012&key=fcf4cf60ec6f613a7e65bd685adc1f379a6dc1b8" target="blank">Profile</a>
-- Know about my experiences : <a href="https://drive.google.com/file/d/1kbf6eZ4hD8tmKGLL6cZR9A75JbF-t2cs/view?usp=drivesdk">Resume</a>
+- Know about my experiences : <a href="https://drive.google.com/file/d/1G8QL9zvsq4eFdlnHcDM4diTJnzkaQqEi/view?usp=drivesdk">Resume</a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 
-<a href="https://linkedin.com/in/sruthi-sivasankararaj-b0930b263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthi-sivasankararaj-b0930b263" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sruthi-sivasankararaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sruthi-sivasankararaj-b0930b263" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

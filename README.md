@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects and ML Projects**
 
-- 🌱 I’m currently learning **Springboot and Back-end development**
+- 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **Front-end Development**
 

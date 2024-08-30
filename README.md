@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects and ML Projects**
 
-- 🌱 I’m currently learning **Spring Boot jaa**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me : **sruthisivasankararaj.06@gmail.com**
 
